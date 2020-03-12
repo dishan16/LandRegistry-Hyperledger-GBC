@@ -1,9 +1,9 @@
-DAPP 1 Final Project: Mathai Puthiakunnel, Student number 101278673
+DAPP 1 Final Project: Dishan Gohel, Student ID: 101254621
 
 
 #### Step 1 
 
-git clone https://github.com/mathaip/LandRegistry-Hyperledger-GBC.git
+git clone https://github.com/dishan16/LandRegistry-Hyperledger-GBC.git
 
 Make sure you have docker installed on your machine.
 
